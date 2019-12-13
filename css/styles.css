@@ -1,0 +1,25 @@
+#stat {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+#chartTop{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contianer {
+  width: 80%;
+  padding: 0px;
+  margin: 0px;
+}
+
+@media (max-width: 900px) {
+
+.contianer {
+  width: 300px;
+  padding: 0px;
+  margin: 0px;
+  }
+}
